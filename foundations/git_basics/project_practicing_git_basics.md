@@ -71,7 +71,7 @@ In this project, we'll walk through the basic Git workflow that you will use in 
 #### Push Your Work to GitHub
 Finally, let's upload your work to the GitHub repository you created at the start of this tutorial.
 
-1. Type `git push origin main`.
+1. Type `git push origin master`. ###Renaming the default branch from main to master as per the latest github update
   <a href="https://i.imgur.com/Fyo2Xaz.png"><img class="tutorial-img" src="https://i.imgur.com/Fyo2Xaz.png" title="source: imgur.com" /></a>
 2. Type `git status` one final time. It should output "*nothing to commit, working tree clean*".
   <a href="https://i.imgur.com/zvrr2ou.png"><img class="tutorial-img" src="https://i.imgur.com/zvrr2ou.png" title="source: imgur.com" /></a>
